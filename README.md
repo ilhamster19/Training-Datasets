@@ -1,2 +1,2 @@
 # Training-Datasets
-Berisi kumpulan dataset untuk latihan analisis data
+Berisi kumpulan dataset untuk latihan machine learning
